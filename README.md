@@ -1,0 +1,1 @@
+# MediaTek_APSoC_SDK5030
